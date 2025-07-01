@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Sakalabaktula Chanikya
 
-<!--
-**chanu2833/chanu2833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Student  
+💻 Java Backend Developer | DSA Practitioner | Tech Explorer  
+🌱 Currently learning: Java Backend Development, DSA  
+🛠️ Tech Stack: Java, SQL, HTML/CSS  
+🧠 Interested in AI-integrated Web Apps
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🎬 Steal The Ticket – Online Movie Booking Website (Frontend)(GitHub link)
+- 🔮 Astrology Prediction using Machine Learning (GitHub link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- 💼 LinkedIn : https://www.linkedin.com/in/sakalabaktula-chanikya-545a982a4/
+- 📧 Email: chanikyasakalabaktula@gmail.com
