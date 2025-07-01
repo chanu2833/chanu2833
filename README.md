@@ -1,15 +1,29 @@
-## 👋 Hi, I'm Sakalabaktula Chanikya
+# 👋 Hey there, I'm Chanikya! 
 
 🎓 Final Year Computer Science Student  
-💻 Java Backend Developer | DSA Practitioner | Tech Explorer  
-🌱 Currently learning: Java Backend Development, DSA  
-🛠️ Tech Stack: Java, SQL, HTML/CSS  
-🧠 Interested in AI-integrated Web Apps
+💻 Java Backend Developer | DSA Enthusiast | ML Explorer  
+🌱 Currently learning Java Backend Development and practicing DSA  
+🚀 Building real-world projects using Java, HTML/CSS, and Machine Learning  
+📍 Based in India
 
-## 🚀 Projects
-- 🎬 Steal The Ticket – Online Movie Booking Website (Frontend)(GitHub link)
-- 🔮 Astrology Prediction using Machine Learning (GitHub link)
+---
 
-## 📫 How to reach me
-- 💼 LinkedIn : https://www.linkedin.com/in/sakalabaktula-chanikya-545a982a4/
-- 📧 Email: chanikyasakalabaktula@gmail.com
+## 🔧 Tech Stack
+- 🧑‍💻 Languages: Java, DSA, HTML/CSS
+- 📚 Domains: Java Backend, Web Dev (Frontend), Machine Learning (Basic)
+
+---
+
+## 🧠 Projects
+| Project | Description | Tech Used |
+|--------|-------------|------------|
+| [🎬 Steal The Ticket](https://github.com/chanu2833/steal-the-ticket) | Online movie booking frontend website | HTML, CSS, JS |
+| [🌌 Horoscope Generator](https://github.com/chanu2833/horoscope-generator) | ML-based zodiac predictor for daily horoscopes | Python, ML |
+
+---
+
+## 📫 Reach Me
+- 📧 Email: chanikyasakalabaktula@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/sakalabaktula-chanikya-545a982a4/
+
+---
