@@ -18,7 +18,7 @@
 | Project | Description | Tech Used |
 |--------|-------------|------------|
 | [🎬 Steal The Ticket](https://github.com/chanu2833/Steal-Your-Ticket) | Online movie booking frontend website | HTML, CSS, JS |
-| [🌌 Horoscope Generator](https://github.com/chanu2833/horoscope-generator) | ML-based zodiac predictor for daily horoscopes | Python, ML |
+| [🌌 Horoscope Generator](https://github.com/chanu2833/Horoscope_Generator) | ML-based zodiac predictor for daily horoscopes | Python, ML |
 
 ---
 
